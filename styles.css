@@ -1,0 +1,138 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    background-color: #FEFBF3;
+    
+}
+
+
+.header {
+   font-size: 2.5rem;
+   font-weight: bold;
+   display: block;
+   padding: 1.5em;
+   text-align: center;
+}
+
+.magic {
+    display: block;
+    text-align: center;
+    font-size: 120%;
+    
+}
+
+#img-div{
+    background-color: white;
+    /* margin: 0.5em; */
+    /* background-color: teal; */
+}
+
+#image {
+    display: block;
+    width: 80%;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    height: auto;
+    
+}
+#img-caption{
+    display: none;
+    text-align: center;
+}
+
+.quote-1{
+    display: block;
+    text-align: center;
+    line-height: 1.5em;
+    font-style: italic;
+    font-size: 120%;
+    margin: 1em auto;
+    padding: 0 2em;
+  
+    
+}
+.author-of-quote {
+    display: block;
+    text-align: center;
+    line-height: 1.5em;
+    font-style: italic;
+    font-size: 110%;
+    margin-bottom: 1em;
+    padding-top: 1em;
+}
+
+.timeline-header-box{
+    width:75%;
+    margin:0 auto;
+}
+
+.timeline-header{
+    font-size: 1.7rem; 
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 2em 0.8em;
+
+}
+
+.ul-box{
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 120%;
+    
+}
+
+
+#tribute-info ul li{
+     /* background-color: gray;  */
+     line-height: 1.6;
+     font-size: 120%;
+     margin:0.5em 0.5em;
+    padding: 0 0.2em; 
+} 
+
+.quote{
+    /* background-color: hotpink; */
+    margin: 2em 2em;
+}
+
+.quote-2{
+    display: block;
+    text-align: center;
+    line-height: 1.5em;
+    font-style: italic;
+    font-size: 120%;
+    padding: 2em auto;
+    padding-top: 2em;
+}
+
+.footer{
+    /* background-color: indigo; */
+    display: block;
+
+}
+.footer-text{
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 1.5em 2em;
+    padding: 2em 2em;
+
+}
+
+a{
+    color: #77a6e4;
+}
+
+
+
+
